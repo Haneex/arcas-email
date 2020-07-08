@@ -2,4 +2,4 @@
 
 ---
 
- Source code for sending verification emails on Arco Engineering Application
+ Source code for sending verification emails on Arcas Engineering Application
